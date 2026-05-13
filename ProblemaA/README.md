@@ -15,5 +15,3 @@ Finalmente se suman todas las cantidades aportadas por las personas y se compara
 
 - Si el dinero reunido es mayor o igual al total con propina, se imprime `YES`.
 - En caso contrario, se imprime `NO`.
-
-## Complejidad
